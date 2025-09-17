@@ -19,7 +19,7 @@ public class Main {
         calc_mul.displayResult("*");
 
         Calculator calc_div = new Calculator();
-        calc_div.setNumbers(5, 3);
+        calc_div.setNumbers(10, 2);
 //      int result = calc_div.divide();
         calc_div.divide();
         calc_div.displayResult("/");
